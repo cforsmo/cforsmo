@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cforsmo
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on: anything simple really, completely new to this.
+- 💞️ I’m looking to collaborate on anything simple, really. I'm completely new to this.
 - 📫 How to reach me: cmforsmo@gmail.com.
 
 <!---
